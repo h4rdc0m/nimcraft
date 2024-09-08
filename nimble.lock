@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "packages": {
+    "glfw": {
+      "version": "3.4.0.4",
+      "vcsRevision": "9ce5a44ba02dc1505c3d6cfb6ee848567aae613b",
+      "url": "https://github.com/johnnovak/nim-glfw",
+      "downloadMethod": "git",
+      "dependencies": [],
+      "checksums": {
+        "sha1": "7a22b020d0fcae4174ad6edcf611339b84924f76"
+      }
+    },
+    "glm": {
+      "version": "1.1.1",
+      "vcsRevision": "c30414e241ad7fde9abc4f1dc7185268c4bbdbcd",
+      "url": "https://github.com/stavenko/nim-glm",
+      "downloadMethod": "git",
+      "dependencies": [],
+      "checksums": {
+        "sha1": "4f488f67e5a3c45d3483e1d60a8f52acc8453a8a"
+      }
+    }
+  },
+  "tasks": {}
+}

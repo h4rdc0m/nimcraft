@@ -11,3 +11,6 @@ bin           = @["nimcraft"]
 # Dependencies
 
 requires "nim >= 2.0.8"
+
+requires "glm >= 1.1.1"
+requires "glfw >= 3.4.0.4"
